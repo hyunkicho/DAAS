@@ -9,3 +9,8 @@ Dao As A Service
 
 * 본 소스 코드의 출저는 다음과 같습니다. 
   https://github.com/hyunkicho/blockchain101
+
+시연 방법
+1. npm install
+2. npm run start
+3. 메타마스크에 위믹스 테스트넷 연결
